@@ -9,7 +9,7 @@ const Home = () => {
                 <div className="item1">
                     <span className='greeting'><Typical
                         loop={1}
-                        steps={["Hello! I am Karthikeyan Raghav", 2000]}
+                        steps={["Hello ! I am Karthikeyan Raghav", 2000]}
                     /></span>
                     <span className='typical'>
                         <Typical
