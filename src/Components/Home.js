@@ -22,14 +22,13 @@ const Home = () => {
                 </div>
                 <div className="item2">
                     <img src={profile_photo} style={{
-                        width : '100px', borderRadius: '50%',
+                        width : '250px', borderRadius: '50%',
                         height: '250px',
-                        width: '250px',
                         marginBottom: '25px',
                         backgroundSize: 'cover',
                         border: '1vh solid #232d3622',
                         transition: '1s'
-                    }} />
+                    }} alt='proflie'/>
                 </div>
             </div>
         </div>
