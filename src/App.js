@@ -5,7 +5,6 @@ import Projects from './Components/Projects.js'
 import './App.css';
 import React from 'react';
 import Navbar from './Components/Navbar.js';
-
 function App() {
   return (
     <div>
